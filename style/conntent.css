@@ -1,0 +1,32 @@
+#conntent {
+    width: 650px;;
+    height: 879px;
+    float: right;
+    display: flex;
+    align-items: center;
+}
+
+#first {
+    background-color: antiquewhite;
+    height: 500px;
+    width: 95%;
+    border-radius: 20px;
+}
+
+    #first h1 {
+        text-align: center;
+        margin: 40px 0 40px;
+        text-align: center;
+        font-size: 30px;
+        color: #ecf0f1;
+        text-shadow: 2px 2px 4px #000000;
+        font-family: 'Cherry Swash', cursive;
+    }
+
+    #first p {
+        text-align: center;
+        font-size: 18px;
+        text-indent: 40px;
+        font-weight: 600;
+        padding:15px;
+    }
